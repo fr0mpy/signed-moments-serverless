@@ -1,0 +1,25 @@
+{
+  "name": "signed-moments-severless",
+  "version": "1.0.0",
+  "description": "signed moments serverless functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fr0mpy/signed-moments-serverless.git"
+  },
+  "author": "el fromp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fr0mpy/signed-moments-serverless/issues"
+  },
+  "homepage": "https://github.com/fr0mpy/signed-moments-serverless#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1502.0",
+    "bcryptjs": "^2.4.3",
+    "crypto": "^1.0.1",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
